@@ -180,7 +180,7 @@
          "text":"Ce tag HTML este folosit pentru a crea o legătură (link) către o altă pagină web?",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
+               "text":"A. &#60;a&#62;",
                "corect":true,
                "explicatie":""
             },
