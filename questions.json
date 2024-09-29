@@ -243,7 +243,7 @@
          ]
        },
        {
-         "text":"Cum se specifi că culoarea textului în CSS?",
+         "text":"Cum se specifică culoarea textului în CSS?",
          "raspunsuri":[
             {
                "text":"A. background-color",
@@ -331,331 +331,331 @@
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"Rolul JVM-ului este:",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
+               "text":"A. De a interpreta codul Java in Bytecode",
+               "corect":false
+            },
+            {
+              "text":"B. De a interpreta codul Java in Cod masina",
+              "corect":false
+           },
+            {
+               "text":"C. De a interpreta Bytecodul in Cod masina",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"B. &#60;div&#62;",
-              "corect":false
-           },
-            {
-               "text":"C. &#60;p&#62;",
-               "corect":false
-            },
-            {
-              "text":"D. &#60;img&#62;",
+              "text":"D. Niciuna de mai sus",
               "corect":false
            }
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"O variabila de tip long este definita corect astfel:",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
-               "corect":true,
-               "explicatie":""
-            },
-            {
-              "text":"B. &#60;div&#62;",
-              "corect":false
-           },
-            {
-               "text":"C. &#60;p&#62;",
+               "text":"A. long value = 1231.2f;",
                "corect":false
             },
             {
-              "text":"D. &#60;img&#62;",
+              "text":"B. long value = 10000L;",
+               "corect":true,
+               "explicatie":""
+           },
+            {
+               "text":"C. long value = 123;",
+               "corect":false
+            },
+            {
+              "text":"D. long value = 231.2;",
               "corect":false
            }
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"Cum iesim fortat dintr-o bucla?",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
+               "text":"A. Folosid kewordul: break",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"B. &#60;div&#62;",
+              "text":"B. Folosid kewordul: continue",
               "corect":false
            },
             {
-               "text":"C. &#60;p&#62;",
+               "text":"C. Folosid kewordul: switch",
                "corect":false
             },
             {
-              "text":"D. &#60;img&#62;",
+              "text":"D. Folosid kewordul: while",
               "corect":false
            }
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"Un constructor in Java este folosit pentru?",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
+               "text":"A. A defini corect fi eld-urile din clasa",
+               "corect":false
+            },
+            {
+              "text":"B. Pentru a se putea realiza mostenirea",
+              "corect":false
+           },
+            {
+               "text":"C. Pentru a permite construirea obiectelor/instantelor",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"B. &#60;div&#62;",
-              "corect":false
-           },
-            {
-               "text":"C. &#60;p&#62;",
-               "corect":false
-            },
-            {
-              "text":"D. &#60;img&#62;",
+              "text":"D. Toate de mai sus",
               "corect":false
            }
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"Daca avem o metoda numita \"execute\" care arunca o exceptie de tip \"Exception\" aceasta va avea in semnatura ei:",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
+               "text":"A. throw Exception",
+               "corect":false
+            },
+            {
+              "text":"B. try Exception",
+              "corect":false
+           },
+            {
+               "text":"C. throws Exception",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"B. &#60;div&#62;",
-              "corect":false
-           },
-            {
-               "text":"C. &#60;p&#62;",
-               "corect":false
-            },
-            {
-              "text":"D. &#60;img&#62;",
+              "text":"D. finally Exception",
               "corect":false
            }
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"Alegeti varianta corecta:",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
-               "corect":true,
-               "explicatie":""
-            },
-            {
-              "text":"B. &#60;div&#62;",
-              "corect":false
-           },
-            {
-               "text":"C. &#60;p&#62;",
+               "text":"A. O lista contine elemente duplicate",
                "corect":false
             },
             {
-              "text":"D. &#60;img&#62;",
+              "text":"B. O lista pastreaza ordinea elementelor",
+              "corect":false
+           },
+            {
+               "text":"C. O lista este o insiruire de elemente",
+               "corect":false
+            },
+            {
+              "text":"D. Toate de mai sus",
+               "corect":true,
+               "explicatie":""
+           }
+         ]
+       },
+       {
+         "text":"Ce obligatie avem atunci cand extindem o clasa abstracta?",
+         "raspunsuri":[
+            {
+               "text":"A. Sa suprascriem constructorul",
+               "corect":false
+            },
+            {
+              "text":"B. Sa implementam metodele abstracte",
+               "corect":true,
+               "explicatie":""
+           },
+            {
+               "text":"C. Sa folosim super",
+               "corect":false
+            },
+            {
+              "text":"D. Nicio varianta de mai sus",
               "corect":false
            }
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"Care este tag-ul HTML corect pentru a introduce o imagine?",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
+               "text":"A. &#60;img src=\"image.jpg\" alt=\"My Image\">&#62;",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"B. &#60;div&#62;",
+              "text":"B. &#60;image src=\"image.jpg\" alt=\"My Image\">&#62;",
               "corect":false
            },
             {
-               "text":"C. &#60;p&#62;",
+               "text":"C. &#60;img href=\"image.jpg\" alt=\"My Image\">&#62;",
                "corect":false
             },
             {
-              "text":"D. &#60;img&#62;",
+              "text":"D. &#60;img alt=\"My Image\">&#62;",
               "corect":false
            }
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"Cum se specifică o linie orizontală în HTML?",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
-               "corect":true,
-               "explicatie":""
-            },
-            {
-              "text":"B. &#60;div&#62;",
-              "corect":false
-           },
-            {
-               "text":"C. &#60;p&#62;",
+               "text":"A. &#60;br&#62;",
                "corect":false
             },
             {
-              "text":"D. &#60;img&#62;",
+              "text":"B. &#60;hr&#62;",
+               "corect":true,
+               "explicatie":""
+           },
+            {
+               "text":"C. &#60;line&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;tr&#62;",
               "corect":false
            }
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"Cum se specifică stilurile CSS direct în interiorul unui document HTML?",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
-               "corect":true,
-               "explicatie":""
-            },
-            {
-              "text":"B. &#60;div&#62;",
-              "corect":false
-           },
-            {
-               "text":"C. &#60;p&#62;",
+               "text":"A. &#60;link&#62;",
                "corect":false
             },
             {
-              "text":"D. &#60;img&#62;",
+              "text":"B. &#60;style&#62;",
+               "corect":true,
+               "explicatie":""
+           },
+            {
+               "text":"C. &#60;script&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;css&#62;",
               "corect":false
            }
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"Ce selecție CSS va aplica stilurile la toate elementele de tip &#60;h1&#62?",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
-               "corect":true,
-               "explicatie":""
-            },
-            {
-              "text":"B. &#60;div&#62;",
-              "corect":false
-           },
-            {
-               "text":"C. &#60;p&#62;",
+               "text":"A. .h1",
                "corect":false
             },
             {
-              "text":"D. &#60;img&#62;",
+              "text":"B. h1",
+               "corect":true,
+               "explicatie":""
+           },
+            {
+               "text":"C. #h1",
+               "corect":false
+            },
+            {
+              "text":"D. Nu se poate realiza selecția",
               "corect":false
            }
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"Care este sintaxa corectă pentru o declarație \"if\" în JavaScript?",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
+               "text":"A. if (condition) {code}",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"B. &#60;div&#62;",
+              "text":"B. if {condition} then {code}",
               "corect":false
            },
             {
-               "text":"C. &#60;p&#62;",
+               "text":"C. if (condition) => {code}",
                "corect":false
             },
             {
-              "text":"D. &#60;img&#62;",
+              "text":"D. if {condition} {code}",
               "corect":false
            }
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"Ce acronim reprezintă XHR în JavaScript?",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
+               "text":"A. XMLHTTP Request",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"B. &#60;div&#62;",
+              "text":"B. Xtra High Resolution",
               "corect":false
            },
             {
-               "text":"C. &#60;p&#62;",
+               "text":"C. Xtra Hyperlink Response",
                "corect":false
             },
             {
-              "text":"D. &#60;img&#62;",
+              "text":"D. Hyper Request",
               "corect":false
            }
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"Ce cuvânt cheie este utilizat pentru a returna o valoare dintr-o funcție în JavaScript?",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
+               "text":"A. exit",
+               "corect":false
+            },
+            {
+              "text":"B. break",
+              "corect":false
+           },
+            {
+               "text":"C. return",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"B. &#60;div&#62;",
-              "corect":false
-           },
-            {
-               "text":"C. &#60;p&#62;",
-               "corect":false
-            },
-            {
-              "text":"D. &#60;img&#62;",
+              "text":"D. stop",
               "corect":false
            }
          ]
        },
        {
-         "text":"Ce tag HTML este folosit pentru",
+         "text":"Cum se adaugă un element într-un element HTML existent folosind JavaScript?",
          "raspunsuri":[
             {
-               "text":"A. &#60;ul&#62;",
+               "text":"A. element.appendChild(newElement)",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"B. &#60;div&#62;",
+              "text":"B. element.createChild(newElement)",
               "corect":false
            },
             {
-               "text":"C. &#60;p&#62;",
+               "text":"C. element.add(newElement)",
                "corect":false
             },
             {
-              "text":"D. &#60;img&#62;",
-              "corect":false
-           }
-         ]
-       },
-       {
-         "text":"Ce tag HTML este folosit pentru",
-         "raspunsuri":[
-            {
-               "text":"A. &#60;ul&#62;",
-               "corect":true,
-               "explicatie":""
-            },
-            {
-              "text":"B. &#60;div&#62;",
-              "corect":false
-           },
-            {
-               "text":"C. &#60;p&#62;",
-               "corect":false
-            },
-            {
-              "text":"D. &#60;img&#62;",
+              "text":"D. element.insert(newElement)",
               "corect":false
            }
          ]
