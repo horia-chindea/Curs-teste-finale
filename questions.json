@@ -1,14 +1,14 @@
 {
     "intrebari":[
        {
-          "text":"Care este paradigma limbajului de programare pe care se bazeaza Java?",
+          "text":"Care este paradigma limbajului de programare pe care se bazează Java?",
           "raspunsuri":[
              {
                 "text":"A. Procedural",
                 "corect":false
              },
              {
-               "text":"B. Functional",
+               "text":"B. Funcțional",
                "corect":false
             },
              {
@@ -45,14 +45,14 @@
          ]
        },
        {
-         "text":"Care este diferenta dintre List si Set?",
+         "text":"Care este diferența dintre List si Set?",
          "raspunsuri":[
             {
-               "text":"A. List poate contine elemente null pe cand Set nu poate",
+               "text":"A. List poate conține elemente null pe cand Set nu poate",
                "corect":false
             },
             {
-              "text":"B. Ambele colectii pastreaza ordinea elementelor",
+              "text":"B. Ambele colecții păstrează ordinea elementelor",
               "corect":false
            },
             {
@@ -656,6 +656,336 @@
             },
             {
               "text":"D. element.insert(newElement)",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"In blocul de decizie 'if' argumentul trebuie sa fie de tip:",
+         "raspunsuri":[
+            {
+               "text":"A. String",
+               "corect":false
+            },
+            {
+              "text":"B. int",
+              "corect":false
+           },
+            {
+               "text":"C. double",
+               "corect":false
+            },
+            {
+              "text":"D. boolean",
+               "corect":true,
+               "explicatie":""
+           }
+         ]
+       },
+       {
+         "text":"Linia de cod <System.out.println(1 + \"2\");> va afisa la consola:",
+         "raspunsuri":[
+            {
+               "text":"A. 3",
+               "corect":false
+            },
+            {
+              "text":"B. 1 + 2",
+              "corect":false
+           },
+            {
+               "text":"C. 12",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"D. 2",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Metoda corecta pentru a adauga un element intr-o lista este:",
+         "raspunsuri":[
+            {
+               "text":"A. put",
+               "corect":false
+            },
+            {
+              "text":"B. push",
+              "corect":false
+           },
+            {
+               "text":"C. add",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"D. pop",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Cum implementam corect o interfata?",
+         "raspunsuri":[
+            {
+               "text":"A. Definim o clasa si folosim keywordul 'implements' urmat de numele interfetei",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. Definim o interfata si folosim keywordul 'implements' urmat de numele interfetei",
+              "corect":false
+           },
+            {
+               "text":"C. Definim un enum si folosim keywordul 'implements' urmat de numele interfetei",
+               "corect":false
+            },
+            {
+              "text":"D. Definim o clasa si folosim keywordul 'extends' urmat de numele interfetei",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Referitor la blocurile try/catch alegeti varianta corecta de mai jos",
+         "raspunsuri":[
+            {
+               "text":"A. try poate fi folosit intr-o functie pentru care avem throws in semnatura sa",
+               "corect":false
+            },
+            {
+              "text":"B. try/catch nu pot fi folosite fara finally",
+              "corect":false
+           },
+            {
+               "text":"C. try/catch se foloseste obligatoriu atunci cand aruncam o exceptie",
+               "corect":false
+            },
+            {
+              "text":"D. try/catch se folosesc impreuna in executia unui bloc de cod ce arunca o exceptie",
+               "corect":true,
+               "explicatie":""
+           }
+         ]
+       },
+       {
+         "text":"Alegeti varianta corecta pentru defi nirea si atribuirea unei constantestatice de tip String.",
+         "raspunsuri":[
+            {
+               "text":"A. public final static String VALUE = 'value';",
+               "corect":false
+            },
+            {
+              "text":"B. public final static String VALUE = \"value\";",
+               "corect":true,
+               "explicatie":""
+           },
+            {
+               "text":"C. public static String final VALUE = \"value\";",
+               "corect":false
+            },
+            {
+              "text":"D. public final static String VALUE;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Mostenirea defineste:",
+         "raspunsuri":[
+            {
+               "text":"A. Principiul prin care o clasa preia valorile constructorului din clasa de baza",
+               "corect":false
+            },
+            {
+              "text":"B. Principiul prin care mostenim functiile 'equals' si 'hashCode'",
+              "corect":false
+           },
+            {
+               "text":"C. Principiul prin care o clasa preia comportamentul clasei pe care o mosteneste",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"D. Principiul prin care o clasa implementeaza o interfata",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"In Java, tentativa de a introduce un element deja existend intr-un set:",
+         "raspunsuri":[
+            {
+               "text":"A. Genereaza o exceptie",
+               "corect":false
+            },
+            {
+              "text":"B. Adauga elementul in set si genereaza o exceptie",
+              "corect":false
+           },
+            {
+               "text":"C. Nu adauga elementul in set si nu se genereaza nicio exceptie",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"D. Adauga elementul in set si nu se generaza nicio exceptie",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru a crea o listă neordonată?",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;ol&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;li&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;dl&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Cum se specifică un comentariu în codul HTML?",
+         "raspunsuri":[
+            {
+               "text":"A. # comentariu",
+               "corect":false
+            },
+            {
+              "text":"B. // comentariu",
+              "corect":false
+           },
+            {
+               "text":"C. /* comentariu */",
+               "corect":false
+            },
+            {
+              "text":"D. <!-- comentariu -->",
+               "corect":true,
+               "explicatie":""
+           }
+         ]
+       },
+       {
+         "text":"Care este ultimul stil aplicat unui element in cazul CSS?",
+         "raspunsuri":[
+            {
+               "text":"A. fisier extern",
+               "corect":false
+            },
+            {
+              "text":"B. stil declarat in&#60;head&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. stil inline",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"D. toate cele de mai sus",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce proprietate CSS este folosită pentru a seta spațiul între marginile interne ale unui element?",
+         "raspunsuri":[
+            {
+               "text":"A. margin",
+               "corect":false
+            },
+            {
+              "text":"B. padding",
+               "corect":true,
+               "explicatie":""
+           },
+            {
+               "text":"C. space",
+               "corect":false
+            },
+            {
+              "text":"D. border",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Cum se accesează o proprietate a unui obiect în JavaScript?",
+         "raspunsuri":[
+            {
+               "text":"A. object.property",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. object{property}",
+              "corect":false
+           },
+            {
+               "text":"C. object->property",
+               "corect":false
+            },
+            {
+              "text":"D. object::property",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce acronim reprezintă JSON în JavaScript?",
+         "raspunsuri":[
+            {
+               "text":"A. JavaScript Object Notation",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. Java Syntax Object Notation",
+              "corect":false
+           },
+            {
+               "text":"C. JavaScript Object Network",
+               "corect":false
+            },
+            {
+              "text":"D. Java Syntax Oriented Network",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce cuvânt cheie este utilizat pentru a iesi dintr-o bucla în JavaScript?",
+         "raspunsuri":[
+            {
+               "text":"A. return",
+               "corect":false
+            },
+            {
+              "text":"B. break",
+               "corect":true,
+               "explicatie":""
+           },
+            {
+               "text":"C. exit",
+               "corect":false
+            },
+            {
+              "text":"D. stop",
               "corect":false
            }
          ]
