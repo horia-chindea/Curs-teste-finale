@@ -683,7 +683,7 @@
          ]
        },
        {
-         "text":"Linia de cod <System.out.println(1 + \"2\");> va afișa la consolă:",
+         "text":"Linia de cod &#60;System.out.println(1 + \"2\");&#62; va afișa la consolă:",
          "raspunsuri":[
             {
                "text":"A. 3",
