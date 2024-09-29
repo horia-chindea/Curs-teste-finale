@@ -1,0 +1,664 @@
+{
+    "intrebari":[
+       {
+          "text":"Care este paradigma limbajului de programare pe care se bazeaza Java?",
+          "raspunsuri":[
+             {
+                "text":"A. Procedural",
+                "corect":false
+             },
+             {
+               "text":"B. Functional",
+               "corect":false
+            },
+             {
+                "text":"C. OOP",
+                "corect":true,
+                "explicatie":""
+             },
+             {
+               "text":"D. Toate acestea",
+               "corect":false
+            }
+          ]
+       },
+       {
+         "text":"Cum definim corect un String?",
+         "raspunsuri":[
+            {
+               "text":"A. String value = 'value';",
+               "corect":false
+            },
+            {
+              "text":"B. String value = \"value';",
+              "corect":false
+           },
+            {
+               "text":"C. String value = 'value\";",
+               "corect":false
+            },
+            {
+              "text":"D. String value = \"value\";",
+               "corect":true,
+               "explicatie":""
+           }
+         ]
+       },
+       {
+         "text":"Care este diferenta dintre List si Set?",
+         "raspunsuri":[
+            {
+               "text":"A. List poate contine elemente null pe cand Set nu poate",
+               "corect":false
+            },
+            {
+              "text":"B. Ambele colectii pastreaza ordinea elementelor",
+              "corect":false
+           },
+            {
+               "text":"C. List poate contine elemente duplicate, pe cand Set nu poate",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"D. Toate de mai sus",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Un Map contine valori de tip:",
+         "raspunsuri":[
+            {
+               "text":"A. perechi de tip &#60;key,value&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. elemente insiruite",
+              "corect":false
+           },
+            {
+               "text":"C. Perechi de String-uri",
+               "corect":false
+            },
+            {
+              "text":"D. Elemente insiruite intr-o structura de tip LIFO",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Keyword-ul folosit pentru mostenire este:",
+         "raspunsuri":[
+            {
+               "text":"A. inherit",
+               "corect":false
+            },
+            {
+              "text":"B. implements",
+              "corect":false
+           },
+            {
+               "text":"C. throws",
+               "corect":false
+            },
+            {
+              "text":"D. extends",
+               "corect":true,
+               "explicatie":""
+           }
+         ]
+       },
+       {
+         "text":"Cum declaram si atribuim corect o constanta?",
+         "raspunsuri":[
+            {
+               "text":"A. static int value = 2;",
+               "corect":false
+            },
+            {
+              "text":"B. static String value = \"value\";",
+              "corect":false
+           },
+            {
+               "text":"C. final int value = 5;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"D. int x = 5;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Cum definim corect un obiect in Java?",
+         "raspunsuri":[
+            {
+               "text":"A. Este o instanta a altui obiect creat in Java dintr-o clasa",
+               "corect":false
+            },
+            {
+              "text":"B. Este instanta a unei clase",
+               "corect":true,
+               "explicatie":""
+           },
+            {
+               "text":"C. Este instanta a unei interfete",
+               "corect":false
+            },
+            {
+              "text":"D. Este instanta a unei clase abstracte",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Care este diferenta dintre throw si throws?",
+         "raspunsuri":[
+            {
+               "text":"A. throw se foloseste in semnatura metodei pe cand throws se foloseste atunci cand se arunca exceptia",
+               "corect":false
+            },
+            {
+              "text":"B. throws se foloseste in semnatura metodei pe cand throw se foloseste atunci cand se arunca exceptia",
+               "corect":true,
+               "explicatie":""
+           },
+            {
+               "text":"C. Ambele se folosesc la definirea unei exceptii",
+               "corect":false
+            },
+            {
+              "text":"D. Se folosesc doar impreuna cu try/catch",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru a crea o legătură (link) către o altă pagină web?",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru a crea o listă ordonată?",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":false
+            },
+            {
+              "text":"B. &#60;ol&#62;",
+               "corect":true,
+               "explicatie":""
+           },
+            {
+               "text":"C. &#60;li&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;dl&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru a lega un fișier CSS extern?",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;script&#62;",
+               "corect":false
+            },
+            {
+              "text":"B. &#60;style&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;link&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"D. &#60;meta&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Cum se specifi că culoarea textului în CSS?",
+         "raspunsuri":[
+            {
+               "text":"A. background-color",
+               "corect":false
+            },
+            {
+              "text":"B. font-color",
+              "corect":false
+           },
+            {
+               "text":"C. text-color",
+               "corect":false
+            },
+            {
+              "text":"D. color",
+               "corect":true,
+               "explicatie":""
+           }
+         ]
+       },
+       {
+         "text":"Ce cuvânt cheie este folosit pentru a declara o variabilă în JavaScript(recomandat)?",
+         "raspunsuri":[
+            {
+               "text":"A. var",
+               "corect":false
+            },
+            {
+              "text":"B. let",
+               "corect":true,
+               "explicatie":""
+           },
+            {
+               "text":"C. const",
+               "corect":false
+            },
+            {
+              "text":"D. variable",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Care este sintaxa corectă pentru a declara o funcție cu funcție anonima (arrow function) în JavaScript?",
+         "raspunsuri":[
+            {
+               "text":"A. const myFunction = () => {code}",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. function myFunction() {code}",
+              "corect":false
+           },
+            {
+               "text":"C. const myFunction = function() {code}",
+               "corect":false
+            },
+            {
+              "text":"D. const myFunction => {code}",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce metoda este utilizată pentru a crea un obiect în JavaScript?",
+         "raspunsuri":[
+            {
+               "text":"A. class Object()",
+               "corect":false
+            },
+            {
+              "text":"B. createObject()",
+              "corect":false
+           },
+            {
+               "text":"C. makeObject()",
+               "corect":false
+            },
+            {
+              "text":"D. new Object()",
+               "corect":true,
+               "explicatie":""
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       },
+       {
+         "text":"Ce tag HTML este folosit pentru",
+         "raspunsuri":[
+            {
+               "text":"A. &#60;ul&#62;",
+               "corect":true,
+               "explicatie":""
+            },
+            {
+              "text":"B. &#60;div&#62;",
+              "corect":false
+           },
+            {
+               "text":"C. &#60;p&#62;",
+               "corect":false
+            },
+            {
+              "text":"D. &#60;img&#62;",
+              "corect":false
+           }
+         ]
+       }
+    ]
+ }
