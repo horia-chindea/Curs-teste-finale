@@ -815,7 +815,7 @@
          ]
        },
        {
-         "text":"In Java, tentativa de a introduce un element deja existend într-un set:",
+         "text":"In Java, tentativa de a introduce un element deja existent într-un set:",
          "raspunsuri":[
             {
                "text":"A. Generează o excepție",
@@ -874,7 +874,7 @@
                "corect":false
             },
             {
-              "text":"D. <!-- comentariu -->",
+              "text":"D. &#60;!-- comentariu --&#62;",
                "corect":true,
                "explicatie":""
            }
