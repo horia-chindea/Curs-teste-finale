@@ -48,7 +48,7 @@
          "text":"Care este diferența dintre List si Set?",
          "raspunsuri":[
             {
-               "text":"A. List poate conține elemente null pe cand Set nu poate",
+               "text":"A. List poate conține elemente null pe când Set nu poate",
                "corect":false
             },
             {
@@ -56,7 +56,7 @@
               "corect":false
            },
             {
-               "text":"C. List poate contine elemente duplicate, pe cand Set nu poate",
+               "text":"C. List poate conține elemente duplicate, pe când Set nu poate",
                "corect":true,
                "explicatie":""
             },
@@ -67,7 +67,7 @@
          ]
        },
        {
-         "text":"Un Map contine valori de tip:",
+         "text":"Un Map conține valori de tip:",
          "raspunsuri":[
             {
                "text":"A. perechi de tip &#60;key,value&#62;",
@@ -75,7 +75,7 @@
                "explicatie":""
             },
             {
-              "text":"B. elemente insiruite",
+              "text":"B. elemente înșiruite",
               "corect":false
            },
             {
@@ -83,13 +83,13 @@
                "corect":false
             },
             {
-              "text":"D. Elemente insiruite intr-o structura de tip LIFO",
+              "text":"D. Elemente înșiruite într-o structură de tip LIFO",
               "corect":false
            }
          ]
        },
        {
-         "text":"Keyword-ul folosit pentru mostenire este:",
+         "text":"Keyword-ul folosit pentru moștenire este:",
          "raspunsuri":[
             {
                "text":"A. inherit",
@@ -111,7 +111,7 @@
          ]
        },
        {
-         "text":"Cum declaram si atribuim corect o constanta?",
+         "text":"Cum declarăm și atribuim corect o constantă?",
          "raspunsuri":[
             {
                "text":"A. static int value = 2;",
@@ -133,45 +133,45 @@
          ]
        },
        {
-         "text":"Cum definim corect un obiect in Java?",
+         "text":"Cum definim corect un obiect în Java?",
          "raspunsuri":[
             {
-               "text":"A. Este o instanta a altui obiect creat in Java dintr-o clasa",
+               "text":"A. Este o instanță a altui obiect creat în Java dintr-o clasă",
                "corect":false
             },
             {
-              "text":"B. Este instanta a unei clase",
+              "text":"B. Este instanță a unei clase",
                "corect":true,
                "explicatie":""
            },
             {
-               "text":"C. Este instanta a unei interfete",
+               "text":"C. Este instanță a unei interfețe",
                "corect":false
             },
             {
-              "text":"D. Este instanta a unei clase abstracte",
+              "text":"D. Este instanță a unei clase abstracte",
               "corect":false
            }
          ]
        },
        {
-         "text":"Care este diferenta dintre throw si throws?",
+         "text":"Care este diferența dintre throw si throws?",
          "raspunsuri":[
             {
-               "text":"A. throw se foloseste in semnatura metodei pe cand throws se foloseste atunci cand se arunca exceptia",
+               "text":"A. throw se folosește în semnătura metodei pe când throws se folosește atunci când se aruncă excepția",
                "corect":false
             },
             {
-              "text":"B. throws se foloseste in semnatura metodei pe cand throw se foloseste atunci cand se arunca exceptia",
+              "text":"B. throws se folosește în semnătura metodei pe când throw se folosește atunci când se aruncă excepția",
                "corect":true,
                "explicatie":""
            },
             {
-               "text":"C. Ambele se folosesc la definirea unei exceptii",
+               "text":"C. Ambele se folosesc la definirea unei excepții",
                "corect":false
             },
             {
-              "text":"D. Se folosesc doar impreuna cu try/catch",
+              "text":"D. Se folosesc doar împreuna cu try/catch",
               "corect":false
            }
          ]
@@ -309,7 +309,7 @@
          ]
        },
        {
-         "text":"Ce metoda este utilizată pentru a crea un obiect în JavaScript?",
+         "text":"Ce metodă este utilizată pentru a crea un obiect în JavaScript?",
          "raspunsuri":[
             {
                "text":"A. class Object()",
@@ -334,15 +334,15 @@
          "text":"Rolul JVM-ului este:",
          "raspunsuri":[
             {
-               "text":"A. De a interpreta codul Java in Bytecode",
+               "text":"A. De a interpreta codul Java în Bytecode",
                "corect":false
             },
             {
-              "text":"B. De a interpreta codul Java in Cod masina",
+              "text":"B. De a interpreta codul Java în Cod masina",
               "corect":false
            },
             {
-               "text":"C. De a interpreta Bytecodul in Cod masina",
+               "text":"C. De a interpreta Bytecodul în Cod masina",
                "corect":true,
                "explicatie":""
             },
@@ -353,7 +353,7 @@
          ]
        },
        {
-         "text":"O variabila de tip long este definita corect astfel:",
+         "text":"O variabila de tip long este definită corect astfel:",
          "raspunsuri":[
             {
                "text":"A. long value = 1231.2f;",
@@ -375,40 +375,40 @@
          ]
        },
        {
-         "text":"Cum iesim fortat dintr-o bucla?",
+         "text":"Cum ieșim forțat dintr-o buclă?",
          "raspunsuri":[
             {
-               "text":"A. Folosid kewordul: break",
+               "text":"A. Folosind keywordul: break",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"B. Folosid kewordul: continue",
+              "text":"B. Folosind keywordul: continue",
               "corect":false
            },
             {
-               "text":"C. Folosid kewordul: switch",
+               "text":"C. Folosind keywordul: switch",
                "corect":false
             },
             {
-              "text":"D. Folosid kewordul: while",
+              "text":"D. Folosind keywordul: while",
               "corect":false
            }
          ]
        },
        {
-         "text":"Un constructor in Java este folosit pentru?",
+         "text":"Un constructor în Java este folosit pentru?",
          "raspunsuri":[
             {
-               "text":"A. A defini corect fi eld-urile din clasa",
+               "text":"A. A defini corect field-urile din clasă",
                "corect":false
             },
             {
-              "text":"B. Pentru a se putea realiza mostenirea",
+              "text":"B. Pentru a se putea realiza moștenirea",
               "corect":false
            },
             {
-               "text":"C. Pentru a permite construirea obiectelor/instantelor",
+               "text":"C. Pentru a permite construirea obiectelor/instanțelor",
                "corect":true,
                "explicatie":""
             },
@@ -419,7 +419,7 @@
          ]
        },
        {
-         "text":"Daca avem o metoda numita \"execute\" care arunca o exceptie de tip \"Exception\" aceasta va avea in semnatura ei:",
+         "text":"Dacă avem o metodă numita \"execute\" care aruncă o excepție de tip \"Exception\" aceasta va avea în semnătura ei:",
          "raspunsuri":[
             {
                "text":"A. throw Exception",
@@ -441,18 +441,18 @@
          ]
        },
        {
-         "text":"Alegeti varianta corecta:",
+         "text":"Alegeți varianta corecta:",
          "raspunsuri":[
             {
-               "text":"A. O lista contine elemente duplicate",
+               "text":"A. O listă conține elemente duplicate",
                "corect":false
             },
             {
-              "text":"B. O lista pastreaza ordinea elementelor",
+              "text":"B. O listă păstrează ordinea elementelor",
               "corect":false
            },
             {
-               "text":"C. O lista este o insiruire de elemente",
+               "text":"C. O listă este o înșiruire de elemente",
                "corect":false
             },
             {
@@ -463,19 +463,19 @@
          ]
        },
        {
-         "text":"Ce obligatie avem atunci cand extindem o clasa abstracta?",
+         "text":"Ce obligație avem atunci când extindem o clasă abstractă?",
          "raspunsuri":[
             {
-               "text":"A. Sa suprascriem constructorul",
+               "text":"A. Să suprascriem constructorul",
                "corect":false
             },
             {
-              "text":"B. Sa implementam metodele abstracte",
+              "text":"B. Să implementăm metodele abstracte",
                "corect":true,
                "explicatie":""
            },
             {
-               "text":"C. Sa folosim super",
+               "text":"C. Să folosim super",
                "corect":false
             },
             {
@@ -661,7 +661,7 @@
          ]
        },
        {
-         "text":"In blocul de decizie 'if' argumentul trebuie sa fie de tip:",
+         "text":"În blocul de decizie 'if' argumentul trebuie să fie de tip:",
          "raspunsuri":[
             {
                "text":"A. String",
@@ -683,7 +683,7 @@
          ]
        },
        {
-         "text":"Linia de cod <System.out.println(1 + \"2\");> va afisa la consola:",
+         "text":"Linia de cod <System.out.println(1 + \"2\");> va afișa la consolă:",
          "raspunsuri":[
             {
                "text":"A. 3",
@@ -705,7 +705,7 @@
          ]
        },
        {
-         "text":"Metoda corecta pentru a adauga un element intr-o lista este:",
+         "text":"Metoda corectă pentru a adăuga un element într-o listă este:",
          "raspunsuri":[
             {
                "text":"A. put",
@@ -727,51 +727,51 @@
          ]
        },
        {
-         "text":"Cum implementam corect o interfata?",
+         "text":"Cum implementăm corect o interfata?",
          "raspunsuri":[
             {
-               "text":"A. Definim o clasa si folosim keywordul 'implements' urmat de numele interfetei",
+               "text":"A. Definim o clasă și folosim keywordul 'implements' urmat de numele interfeței",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"B. Definim o interfata si folosim keywordul 'implements' urmat de numele interfetei",
+              "text":"B. Definim o interfață și folosim keywordul 'implements' urmat de numele interfeței",
               "corect":false
            },
             {
-               "text":"C. Definim un enum si folosim keywordul 'implements' urmat de numele interfetei",
+               "text":"C. Definim un enum si folosim keywordul 'implements' urmat de numele interfeței",
                "corect":false
             },
             {
-              "text":"D. Definim o clasa si folosim keywordul 'extends' urmat de numele interfetei",
+              "text":"D. Definim o clasă și folosim keywordul 'extends' urmat de numele interfeței",
               "corect":false
            }
          ]
        },
        {
-         "text":"Referitor la blocurile try/catch alegeti varianta corecta de mai jos",
+         "text":"Referitor la blocurile try/catch alegeți varianta corecta de mai jos:",
          "raspunsuri":[
             {
-               "text":"A. try poate fi folosit intr-o functie pentru care avem throws in semnatura sa",
+               "text":"A. try poate fi folosit într-o funcție pentru care avem throws în semnătura sa",
                "corect":false
             },
             {
-              "text":"B. try/catch nu pot fi folosite fara finally",
+              "text":"B. try/catch nu pot fi folosite fără finally",
               "corect":false
            },
             {
-               "text":"C. try/catch se foloseste obligatoriu atunci cand aruncam o exceptie",
+               "text":"C. try/catch se foloseste obligatoriu atunci cand aruncăm o exceptie",
                "corect":false
             },
             {
-              "text":"D. try/catch se folosesc impreuna in executia unui bloc de cod ce arunca o exceptie",
+              "text":"D. try/catch se folosesc împreună în executia unui bloc de cod ce aruncă o excepție",
                "corect":true,
                "explicatie":""
            }
          ]
        },
        {
-         "text":"Alegeti varianta corecta pentru defi nirea si atribuirea unei constantestatice de tip String.",
+         "text":"Alegeți varianta corectă pentru definirea și atribuirea unei constante statice de tip String.",
          "raspunsuri":[
             {
                "text":"A. public final static String VALUE = 'value';",
@@ -793,45 +793,45 @@
          ]
        },
        {
-         "text":"Mostenirea defineste:",
+         "text":"Moștenirea definește:",
          "raspunsuri":[
             {
-               "text":"A. Principiul prin care o clasa preia valorile constructorului din clasa de baza",
+               "text":"A. Principiul prin care o clasă preia valorile constructorului din clasa de baza",
                "corect":false
             },
             {
-              "text":"B. Principiul prin care mostenim functiile 'equals' si 'hashCode'",
+              "text":"B. Principiul prin care mostenim funcțiile 'equals' si 'hashCode'",
               "corect":false
            },
             {
-               "text":"C. Principiul prin care o clasa preia comportamentul clasei pe care o mosteneste",
+               "text":"C. Principiul prin care o clasă preia comportamentul clasei pe care o moștenește",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"D. Principiul prin care o clasa implementeaza o interfata",
+              "text":"D. Principiul prin care o clasă implementează o interfață",
               "corect":false
            }
          ]
        },
        {
-         "text":"In Java, tentativa de a introduce un element deja existend intr-un set:",
+         "text":"In Java, tentativa de a introduce un element deja existend într-un set:",
          "raspunsuri":[
             {
-               "text":"A. Genereaza o exceptie",
+               "text":"A. Generează o excepție",
                "corect":false
             },
             {
-              "text":"B. Adauga elementul in set si genereaza o exceptie",
+              "text":"B. Adaugă elementul în set și generează o excepție",
               "corect":false
            },
             {
-               "text":"C. Nu adauga elementul in set si nu se genereaza nicio exceptie",
+               "text":"C. Nu adaugă elementul în set și nu se generează nicio excepție",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"D. Adauga elementul in set si nu se generaza nicio exceptie",
+              "text":"D. Adaugă elementul în set și nu se generază nicio excepție",
               "corect":false
            }
          ]
@@ -881,14 +881,14 @@
          ]
        },
        {
-         "text":"Care este ultimul stil aplicat unui element in cazul CSS?",
+         "text":"Care este ultimul stil aplicat unui element în cazul CSS?",
          "raspunsuri":[
             {
-               "text":"A. fisier extern",
+               "text":"A. fișier extern",
                "corect":false
             },
             {
-              "text":"B. stil declarat in&#60;head&#62;",
+              "text":"B. stil declarat în &#60;head&#62;",
               "corect":false
            },
             {
@@ -969,7 +969,7 @@
          ]
        },
        {
-         "text":"Ce cuvânt cheie este utilizat pentru a iesi dintr-o bucla în JavaScript?",
+         "text":"Ce cuvânt cheie este utilizat pentru a ieși dintr-o buclă în JavaScript?",
          "raspunsuri":[
             {
                "text":"A. return",
