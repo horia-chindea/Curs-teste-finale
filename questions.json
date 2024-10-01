@@ -488,20 +488,20 @@
          "text":"Care este tag-ul HTML corect pentru a introduce o imagine?",
          "raspunsuri":[
             {
-               "text":"A. &#60;img src=\"image.jpg\" alt=\"My Image\">&#62;",
+               "text":"A. &#60;img src=\"image.jpg\" alt=\"My Image\"&#62;",
                "corect":true,
                "explicatie":""
             },
             {
-              "text":"B. &#60;image src=\"image.jpg\" alt=\"My Image\">&#62;",
+              "text":"B. &#60;image src=\"image.jpg\" alt=\"My Image\"&#62;",
               "corect":false
            },
             {
-               "text":"C. &#60;img href=\"image.jpg\" alt=\"My Image\">&#62;",
+               "text":"C. &#60;img href=\"image.jpg\" alt=\"My Image\"&#62;",
                "corect":false
             },
             {
-              "text":"D. &#60;img alt=\"My Image\">&#62;",
+              "text":"D. &#60;img alt=\"My Image\"&#62;",
               "corect":false
            }
          ]
