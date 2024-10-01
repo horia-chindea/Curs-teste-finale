@@ -5,7 +5,10 @@ const loadQuestionsJSON = async () => {
     const resp = await fetch('./questions.json');
     quizData = await resp.json();
 }
-  
+
+function getRandomInt(max) {
+    return Math.floor(Math.random() * max);
+  }
 
 const questionContainer = document.getElementById("question-container");
 const submitButton = document.getElementById("submit-btn");
@@ -15,7 +18,10 @@ const explanation = document.getElementById("explanation-container");
 
 // Choose random question from loaded data
 const getRandomQuestion = () => {
-    return quizData.intrebari[Math.floor(Math.random() * quizData.intrebari.length)];
+    let questionNumber = getRandomInt(quizData.intrebari.length);
+    console.log("Intrebarea numarul: ", questionNumber, " /", quizData.intrebari.length-1);
+    // return quizData.intrebari[Math.floor(Math.random() * quizData.intrebari.length)];
+    return quizData.intrebari[questionNumber];
 }
 
 let randomQuestion = getRandomQuestion();
